@@ -24,6 +24,7 @@ Mi nombre es Horacio David Capilla Martín, soy estudiante de ciberseguridad y a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![METASPLOIT](https://img.shields.io/badge/Metasploit-659AD2?style=for-the-badge&logo=metasploit&logoColor=white)
 
 <br />
 
